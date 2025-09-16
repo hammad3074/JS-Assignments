@@ -1,6 +1,6 @@
 let ricePrice = 250;  
 let beansPrice = 300; 
-let chickenPrice = 600;
+let chickenPrice = 800;
 
 alert("Welcome To Bin Hashim.!");
 let riceKg = parseFloat(prompt("How many kilograms of rice do you want?"));
